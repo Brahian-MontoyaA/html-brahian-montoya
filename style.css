@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+  font-size: 100px;
+  text-align: center;
+  background-color: black;
+}
+
+h3 {
+  color: blue;
+  font-size: 20px;
+  text-align: center;
+  background-color: green;
+}
+
+p {
+  color: blue;
+  text-align: center;
+}
