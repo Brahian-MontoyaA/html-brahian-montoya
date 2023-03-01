@@ -1,11 +1,12 @@
-h1 {
+#titulo {
   color: red;
   font-size: 100px;
   text-align: center;
-  background-color: black;
+  background-color: yellow;
+  text-shadow: 10px 12px black;
 }
 
-h3 {
+#h3 {
   color: blue;
   font-size: 20px;
   text-align: center;
