@@ -6,14 +6,46 @@
   text-shadow: 10px 12px black;
 }
 
-#h3 {
+#parrafo1 {
   color: blue;
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
-  background-color: green;
+  background-color: yellow;
 }
-
-p {
-  color: blue;
+#parrafo2 {
+  color: green;
+  font-size: 30px;
   text-align: center;
+  background-color: yellow;
+}
+#parrafo3 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  background-color: black;
+}
+#parrafo4 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  background-color: black;
+}
+#parrafo5 {
+  color: blue;
+  font-size: 30px;
+  text-align: center;
+  background-color: black;
+}
+#parrafo6 {
+  color: blue;
+  font-size: 30px;
+  text-align: center;
+  background-color: black;
+}
+#parrafo7 {
+  color: red;
+  font-size: 60px;
+  text-align: center;
+  background-color: blue;
+  text-shadow: 10px 12px black;
 }
