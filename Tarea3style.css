@@ -1,5 +1,18 @@
-#ALASKA {
+#imagen1 {
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto filter drop-shadow(2px 2px red);
+  filter: grayscale(80px);
+}
+
+#imagen2 {
+  display: block;
+  filter: drop-shadow(2px 2px blue);
+  filter: grayscale(80px);
+}
+
+#imagen3 {
+  display: block;
+  filter: drop-shadow(2px 2px green);
+  filter: grayscale(80px);
 }
