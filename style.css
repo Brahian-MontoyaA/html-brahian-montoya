@@ -1,18 +1,19 @@
 #imagen1 {
   display: block;
   margin-left: auto;
-  margin-right: auto filter drop-shadow(2px 2px red);
+  margin-right: auto;
   filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
 }
 
 #imagen2 {
   display: block;
-  filter: drop-shadow(2px 2px blue);
+  filter: drop-shadow(4px 4px pink);
   filter: grayscale(80px);
 }
 
 #imagen3 {
   display: block;
-  filter: drop-shadow(2px 2px green);
+  filter: drop-shadow(4px 4px gold);
   filter: grayscale(80px);
 }
