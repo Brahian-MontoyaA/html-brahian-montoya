@@ -1,0 +1,12 @@
+#titulo {
+  color: red;
+  font-size: 30px;
+  text-align: center;
+  background-color: yellow;
+}
+#imagen1 {
+  display: block;
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
+}
