@@ -3,68 +3,69 @@
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
-  filter: drop-shadow(4px 4px purple);
+  filter: contrast(200%);
 }
+
 #imagen2 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
-  filter: drop-shadow(4px 4px purple);
+  filter: brightness(100%);
 }
 #imagen3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
-  filter: drop-shadow(4px 4px purple);
+  filter: hue-rotate(80deg);
 }
 #imagen4 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
-  filter: drop-shadow(4px 4px purple);
+  filter: opacity(90%);
 }
 #imagen5 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
-  filter: drop-shadow(4px 4px purple);
+  filter: sepia(100%);
 }
 #imagen6 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
-  filter: drop-shadow(4px 4px purple);
+  filter: drop-shadow(4px 4px blue);
 }
 #imagen7 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
-  filter: drop-shadow(4px 4px purple);
+  filter: drop-shadow(4px 4px green);
 }
 #imagen8 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
-  filter: drop-shadow(4px 4px purple);
+  filter: drop-shadow(4px 4px brown);
 }
 #imagen9 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
-  filter: drop-shadow(4px 4px purple);
+  filter: drop-shadow(4px 4px yellow);
 }
 #imagen10 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
-  filter: drop-shadow(4px 4px purple);
+  filter: drop-shadow(4px 4px red);
 }
