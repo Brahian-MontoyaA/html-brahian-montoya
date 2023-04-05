@@ -1,11 +1,69 @@
-#titulo {
-  color: red;
-  font-size: 30px;
-  text-align: center;
-  background-color: yellow;
-}
 #imagen1 {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
+}
+#imagen2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
+}
+#imagen3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
+}
+#imagen4 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
+}
+#imagen5 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
+}
+#imagen6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
+}
+#imagen7 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
+}
+#imagen8 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
+}
+#imagen9 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80px);
+  filter: drop-shadow(4px 4px purple);
+}
+#imagen10 {
+  display: block;
+  margin-left: auto;
   margin-right: auto;
   filter: grayscale(80px);
   filter: drop-shadow(4px 4px purple);
