@@ -3,10 +3,11 @@ body {
 }
 h1 {
   text-align: center;
-  font-size: 60px;
+  font-size: 80px;
 }
-p {
-  font-size: 50px;
+
+#parrafo1 {
+  font-size: 30px;
   text-align: center;
 }
 img {
