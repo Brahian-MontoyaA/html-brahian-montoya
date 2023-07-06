@@ -1,18 +1,24 @@
 body {
-  background-color: azure;
+  background-color: blue;
 }
 h1 {
   text-align: center;
 }
 canvas {
-  background-color: black;
+  background-color: white;
   position: relative;
   left: 35px;
-  border: 20px solid white;
+  border: 20px solid green;
 }
 .canvaret {
   background-color: purple;
   position: relative;
-  left: 30px;
-  border: 20px solid purple;
+  left: 2px;
+  border: 100px solid purple;
+}
+canvas {
+  background-color: white;
+  position: relative;
+  left: 35px;
+  border: 20px solid green;
 }
